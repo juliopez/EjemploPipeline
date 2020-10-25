@@ -1,5 +1,5 @@
-project_name= "EjemploPipline"
-repo ="https://github.com/juliopez/PruebaUnitariaJenkis.git"
+project_name= "EjemploPipline_groovy"
+repo ="git@github.com:juliopez/PruebaUnitariaJenkis.git"
 repo_name ="repositorio"
 
 pipelineJob (poject_name)
